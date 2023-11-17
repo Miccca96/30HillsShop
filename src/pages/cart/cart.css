@@ -1,0 +1,29 @@
+/* cart.css */
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+/* .items {
+  display: flex;
+  flex-direction: column;
+} */
+
+.cost {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+h1 {
+  color: rgb(104, 95, 225);
+}
+.cost p {
+  position: absolute;
+  left: 0%;
+  font-size: x-large;
+}
